@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
